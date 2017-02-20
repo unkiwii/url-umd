@@ -1,1 +1,3 @@
-var url = require('url')
+if (window) {
+  window.Url = window.Url || require('url')
+}

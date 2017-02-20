@@ -17,6 +17,7 @@
   "author": "Lucas G. Sánchez <unkiwii@gmail.com>",
   "license": "WTFPL",
   "devDependencies": {
+    "browserify": "^14.1.0",
     "url": "^0.11.0"
   }
 }
