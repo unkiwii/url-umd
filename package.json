@@ -1,0 +1,22 @@
+{
+  "name": "url-umd",
+  "version": "1.0.0",
+  "description": "Universal Module Definition of url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unkiwii/url-umd"
+  },
+  "keywords": [
+    "url",
+    "umd"
+  ],
+  "author": "Lucas G. Sánchez <unkiwii@gmail.com>",
+  "license": "WTFPL",
+  "devDependencies": {
+    "url": "^0.11.0"
+  }
+}
